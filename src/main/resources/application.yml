@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: telegram-bot-example
+
+telegram:
+  bot:
+    token: <ENTER-YOUR-BOT-TOKEN>
+    username: <ENTER-YOUR-BOT-USERNAME>
