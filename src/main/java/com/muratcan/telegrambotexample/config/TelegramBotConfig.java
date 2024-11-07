@@ -25,4 +25,3 @@ public class TelegramBotConfig {
 		return telegramBotsApi;
 	}
 }
-
