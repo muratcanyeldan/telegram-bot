@@ -1,3 +1,17 @@
+![GitHub CI](https://github.com/muratcanyeldan/telegram-bot/blob/master/.github/workflows/maven.yml/badge.svg)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcanyeldan/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muratcanyeldan)
+&nbsp;
+
+# My Related Articles on Medium
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) How to Create a Telegram Bot with Spring Boot](https://muratcanyeldan.com/how-to-create-a-telegram-bot-with-spring-boot-9289d81dfe6a)
+
+
 # Telegram Bot Example
 
 This project is a simple Telegram bot implemented using Java and Spring Boot. The bot responds to various commands,
