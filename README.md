@@ -1,5 +1,3 @@
-![GitHub CI](https://github.com/muratcanyeldan/telegram-bot/blob/master/.github/workflows/maven.yml/badge.svg)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcanyeldan/)
