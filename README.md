@@ -1,14 +1,15 @@
 # Telegram Bot Example
 
 This project is a simple Telegram bot implemented using Java and Spring Boot. The bot responds to various commands,
-including `/start`, `/help`, `/hello`, `/echo`, `/name_surname`, and `/chat_id`.
+including `/start`, `/help`, `/hello`, `/joke`, `/name_surname`, and `/chat_id`.
 
 ## Features
 
 - **/start**: Greets the user and provides instructions on how to get help.
+- **/start_with_reply**: Greets the user and provides instructions using a reply keyboard.
 - **/hello**: Sends a simple greeting to the user.
 - **/help**: Lists all available bot commands with their descriptions.
-- **/echo**: Echoes back the text that the user sends after the `/echo` command.
+- **/joke**: Tells a random joke to the user.
 - **/name_surname**: Displays the user's full name (first name and last name).
 - **/chat_id**: Displays the user's chat ID.
 
