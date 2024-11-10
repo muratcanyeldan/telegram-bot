@@ -234,6 +234,7 @@ public class TelegramBot extends TelegramLongPollingBot {
 		InlineKeyboardButton helpButton = new InlineKeyboardButton();
 		helpButton.setText("Help");
 		helpButton.setCallbackData("help_callback");
+		helpButton.setUrl("https://muratcanyeldan.com/");
 
 		List<InlineKeyboardButton> rowInline = new ArrayList<>();
 		rowInline.add(helloButton);
